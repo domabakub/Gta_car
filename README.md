@@ -1,3 +1,7 @@
+> [!WARNING]
+> This repository has not been updated for a while now. I personally recommend using https://docs.fivem.net/docs/game-references/vehicle-references/vehicle-models/ - their images are of much higher quality, and are up-to-date. You can either link to the website directly, or make a quick scraper that downloads all vehicle images, just ask an AI.
+
+
 # v-vehicle-images
 
 A collection of transparent images for all vehicles from GTA:V. If you like it, think about giving this repo a star! Thanks :)
